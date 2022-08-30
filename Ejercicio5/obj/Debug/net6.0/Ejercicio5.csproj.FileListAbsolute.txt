@@ -1,0 +1,15 @@
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.AssemblyInfo.cs
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\bin\Debug\net6.0\Ejercicio5.exe
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\bin\Debug\net6.0\Ejercicio5.deps.json
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\bin\Debug\net6.0\Ejercicio5.runtimeconfig.json
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\bin\Debug\net6.0\Ejercicio5.dll
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\bin\Debug\net6.0\Ejercicio5.pdb
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.dll
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\refint\Ejercicio5.dll
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.pdb
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\Ejercicio5.genruntimeconfig.cache
+C:\Users\Compumar\Documents\Metodologia2022\practica1\Ejercicio5\obj\Debug\net6.0\ref\Ejercicio5.dll
